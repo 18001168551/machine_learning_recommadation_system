@@ -1,0 +1,2 @@
+# machine_learning_recommadation_system
+在机器学习过程中，经常出现学过的东西记不住、容易忘等问题，因此通过此方法加深记忆。
